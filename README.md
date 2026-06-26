@@ -4,7 +4,7 @@ Train a reinforcement learning agent in a desktop simulator, then export the
 learned policy straight to an **Arduino Uno** and watch a real robot car
 avoid obstacles using the brain it taught itself.
 
-![Simulator GUI](maiin/simulator-screenshot.png)
+![Simulator GUI](main/simulator-screenshot.png)
 
 > The simulator above shows a car learning to navigate a circular track with
 > a center obstacle. After ~140 episodes of training, the agent already
